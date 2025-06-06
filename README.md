@@ -1,4 +1,5 @@
 ## Install globally with npm#
+### https://docs.n8n.io/hosting/installation/npm/#n8n-with-tunnel
 To install n8n globally, use npm:
 
 ```
