@@ -1,4 +1,4 @@
-# (venv) root@dbserv:/var/www/n8n# cat  /etc/nginx/sites-available/n8n
+#  cat  /etc/nginx/sites-available/n8n
 
 server {
     server_name n8n.devapp.cc;
